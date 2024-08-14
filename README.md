@@ -11,17 +11,6 @@ This project involves creating a user-friendly and visually appealing food menu 
 - **Intuitive Navigation**: Simple and intuitive navigation allowing users to switch between different sections effortlessly.
 - **Responsive Design**: Ensures the interface is visually appealing and functional across various devices, including desktops, tablets, and smartphones.
 
-## Screenshots
-
-### Main Menu
-![Main Menu](screenshots/main_menu.png)
-
-### Biriyani Section
-![Biriyani Section](screenshots/biriyani_section.png)
-
-### Chilli Section
-![Chilli Section](screenshots/chilli_section.png)
-
 ## How to Create a Food Menu Interface in Figma Using Mobile
 
 1. **Setup Your Project**
